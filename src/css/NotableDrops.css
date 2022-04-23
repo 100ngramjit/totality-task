@@ -1,0 +1,12 @@
+.base-of-notable-drops {
+  position: absolute;
+  top: 1678px;
+  left: 0;
+  background: linear-gradient(
+    183.49deg,
+    rgba(0, 74, 223, 0.24),
+    rgba(231, 237, 242, 0.24)
+  );
+  width: 1440px;
+  height: 859px;
+}
