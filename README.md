@@ -1,3 +1,17 @@
+# live deployed url
+
+https://courageous-daffodil-fd414a.netlify.app/
+
+# working procedure
+
+Tech stack-html,css,javaScript,React.js
+
+started by exporting all the vector art and images. then created a react project using create-react-app.
+started by getting creating and adding all the given components and sections as in figma.
+added all the images and vector art.
+added the css rules as given in figma.
+finally created a production build of the project using npm run build and deployed it in netlify.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
